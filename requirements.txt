@@ -1,0 +1,7 @@
+agentops
+aiogram
+crewai
+crewai_tools
+hishel
+mplfinance
+telegramify_markdown
